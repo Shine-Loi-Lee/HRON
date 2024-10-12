@@ -112,7 +112,7 @@ HRON requires you to specify the data type before assigning a value to a variabl
 > &nbsp;
 >
 > **Structure**\
-> 해롱해롱해 (variable 1) (variable 2) (variable 3)\
+> 해롱해롱해 (variable 1) (variable 2) (variable 3)
 >
 > &nbsp;
 >
