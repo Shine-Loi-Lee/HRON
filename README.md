@@ -90,7 +90,7 @@ HRON requires you to specify the data type before assigning a value to a variabl
 >
 > &nbsp;
 >
-> **예시**\
+> **Example**\
 > 해롱 해롱 해롱롱 해롱롱\
 > Assigns the integer (해롱롱) 4 (해롱롱, 100) to the previously declared variable '해롱'.
 >
